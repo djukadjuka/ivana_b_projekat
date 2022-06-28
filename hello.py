@@ -1,6 +1,6 @@
 
 def hello():
-	print("Hello world!")
+	print("Hello world :)!")
 
 hello()
 
@@ -8,3 +8,5 @@ hello()
 for _ in range(10):
 	hello()
 
+print("===================================")
+hello()
